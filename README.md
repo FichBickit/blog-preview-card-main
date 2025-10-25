@@ -1,2 +1,2 @@
-# blog-preview-card-name
+# blog-preview-card-main
 Frontend Mentor's Blog Preview Project
